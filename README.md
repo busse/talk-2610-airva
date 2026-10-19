@@ -4,7 +4,7 @@ Chris Busse · AI Ready RVA — Marketing & Creatives Cohort · October 15, 2026
 
 **Slides: https://busse.github.io/talk-2610-airva/**
 
-AI Ready RVA, Marketing & Creatives Cohort: a framework for applied creativity in the age of automated making.
+A framework for applied creativity in the age of automated making. From the oldest cave art to AI image models: what each new tool changed, what it took, and why the art stays human. A talk by Chris Busse for AI Ready RVA’s Marketing & Creatives Cohort, October 15, 2026.
 
 ## Viewing
 
@@ -21,4 +21,4 @@ Every claim is cited on its slide; the sources are linked in each slide's footer
 
 ---
 
-Exported from dotpreso (513aca0). Illustrations drawn and animated with [dotscene](https://github.com/busse/dotscene).
+Exported from dotpreso (3e7e582). Illustrations drawn and animated with [dotscene](https://github.com/busse/dotscene).
