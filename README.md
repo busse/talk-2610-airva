@@ -21,4 +21,4 @@ Every claim is cited on its slide; the sources are linked in each slide's footer
 
 ---
 
-Exported from dotpreso (2da5d0a). Illustrations drawn and animated with [dotscene](https://github.com/busse/dotscene).
+Exported from dotpreso (513aca0). Illustrations drawn and animated with [dotscene](https://github.com/busse/dotscene).
